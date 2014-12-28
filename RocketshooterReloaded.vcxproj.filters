@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Application.cpp">
+      <Filter>Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>GameStateManagement\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="ApplicationState.cpp">
+      <Filter>GameStateManagement\ApplicationState</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>GameStateManagement\Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="Credits.cpp">
+      <Filter>GameStateManagement\Credits</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>GameStateManagement\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="cpImageButton.cpp">
+      <Filter>GraphicalUserInterface\cpImageButton</Filter>
+    </ClCompile>
+    <ClCompile Include="cpGUI_base.cpp">
+      <Filter>GraphicalUserInterface\cpGUI_base</Filter>
+    </ClCompile>
+    <ClCompile Include="cpTextBox.cpp">
+      <Filter>GraphicalUserInterface\cpTextBox</Filter>
+    </ClCompile>
+    <ClCompile Include="cpShapeButton.cpp">
+      <Filter>GraphicalUserInterface\cpShapeButton</Filter>
+    </ClCompile>
+    <ClCompile Include="cpTextInputBox.cpp">
+      <Filter>GraphicalUserInterface\cpTextInputBox</Filter>
+    </ClCompile>
+    <ClCompile Include="cpCheckBox.cpp">
+      <Filter>GraphicalUserInterface\cpCheckBox</Filter>
+    </ClCompile>
+    <ClCompile Include="cpSelection-DropDownBox.cpp">
+      <Filter>GraphicalUserInterface\cpSelection-DropDownBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Ship.cpp">
+      <Filter>GameStateManagement\Game\ShipManagement\Ship</Filter>
+    </ClCompile>
+    <ClCompile Include="ShipManager.cpp">
+      <Filter>GameStateManagement\Game\ShipManagement\ShipManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Include.cpp">
+      <Filter>Include</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="WeaponManager.cpp">
+      <Filter>GameStateManagement\Game\ShipManagement\WeaponManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Shoot.cpp">
+      <Filter>GameStateManagement\Game\ShipManagement\WeaponManager\Shoot</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.hpp">
+      <Filter>Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.hpp">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.hpp">
+      <Filter>ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.hpp">
+      <Filter>GameStateManagement\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="ApplicationState.hpp">
+      <Filter>GameStateManagement\ApplicationState</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.hpp">
+      <Filter>GameStateManagement\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="Credits.hpp">
+      <Filter>GameStateManagement\Credits</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.hpp">
+      <Filter>GameStateManagement\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="cpImageButton.h">
+      <Filter>GraphicalUserInterface\cpImageButton</Filter>
+    </ClInclude>
+    <ClInclude Include="cpGUI_base.h">
+      <Filter>GraphicalUserInterface\cpGUI_base</Filter>
+    </ClInclude>
+    <ClInclude Include="cpTextBox.h">
+      <Filter>GraphicalUserInterface\cpTextBox</Filter>
+    </ClInclude>
+    <ClInclude Include="cpShapeButton.h">
+      <Filter>GraphicalUserInterface\cpShapeButton</Filter>
+    </ClInclude>
+    <ClInclude Include="cpTextInputBox.h">
+      <Filter>GraphicalUserInterface\cpTextInputBox</Filter>
+    </ClInclude>
+    <ClInclude Include="cpCheckBox.h">
+      <Filter>GraphicalUserInterface\cpCheckBox</Filter>
+    </ClInclude>
+    <ClInclude Include="cpSelection-DropDownBox.h">
+      <Filter>GraphicalUserInterface\cpSelection-DropDownBox</Filter>
+    </ClInclude>
+    <ClInclude Include="cpScrollBar.h">
+      <Filter>GraphicalUserInterface\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="cpButton.h">
+      <Filter>GraphicalUserInterface\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="cpGUI.h">
+      <Filter>GraphicalUserInterface\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="cpGuiContainer.h">
+      <Filter>GraphicalUserInterface\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="cpObject.h">
+      <Filter>GraphicalUserInterface\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="Ship.hpp">
+      <Filter>GameStateManagement\Game\ShipManagement\Ship</Filter>
+    </ClInclude>
+    <ClInclude Include="ShipManager.hpp">
+      <Filter>GameStateManagement\Game\ShipManagement\ShipManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Include.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Trash.hpp">
+      <Filter>Trash</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.hpp">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.hpp">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponManager.hpp">
+      <Filter>GameStateManagement\Game\ShipManagement\WeaponManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Shoot.hpp">
+      <Filter>GameStateManagement\Game\ShipManagement\WeaponManager\Shoot</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Application">
+      <UniqueIdentifier>{c630408a-9b91-4bb1-90eb-7a7e20f0136c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{3c1ce55f-fafa-4f16-9da6-ba2dc06e6267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ResourceManager">
+      <UniqueIdentifier>{13b9d797-e552-439e-855d-688d135c6c8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement">
+      <UniqueIdentifier>{59dc7ce4-5b1a-44b4-8148-a46857870f0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\MainMenu">
+      <UniqueIdentifier>{21bbf14a-c124-46f6-ab6f-ca38fa6e5eea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\ApplicationState">
+      <UniqueIdentifier>{dc97b2ae-bcc1-48f2-8b48-8fa0292d2769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphicalUserInterface">
+      <UniqueIdentifier>{b47766df-08a5-420c-85c6-028d30152900}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\Intro">
+      <UniqueIdentifier>{27a62ccc-5257-4a3b-a05c-ca849065b686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\Credits">
+      <UniqueIdentifier>{5375ed19-6fcd-4d66-8cfe-78e31cd4aa5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\Game">
+      <UniqueIdentifier>{9e76e7b8-54a3-4a22-8be2-0ed428ae7ba2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphicalUserInterface\cpImageButton">
+      <UniqueIdentifier>{070685c2-963e-4bb2-bcf9-2b5020030fd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphicalUserInterface\cpGUI_base">
+      <UniqueIdentifier>{af8bf1ce-d7b8-47c0-bf86-3d32116ebd42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphicalUserInterface\cpTextBox">
+      <UniqueIdentifier>{2892c87a-888f-478a-b86f-bbbdd49ac106}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphicalUserInterface\cpShapeButton">
+      <UniqueIdentifier>{68831f5c-3607-4c44-818e-70b1b4e0f0ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphicalUserInterface\cpTextInputBox">
+      <UniqueIdentifier>{f2c03e81-c6ef-4d72-af0c-57498fdef580}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphicalUserInterface\cpCheckBox">
+      <UniqueIdentifier>{d2868703-0c63-40dc-ad03-136ca1499b08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphicalUserInterface\cpSelection-DropDownBox">
+      <UniqueIdentifier>{0f9220f8-57e9-4222-afa0-b45e8c07d82f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphicalUserInterface\Others">
+      <UniqueIdentifier>{1033de7a-9b0c-4a3f-bfb3-bda851761e6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{0b2f3c2d-b5cf-4b6d-be7b-ec3b18aa1ace}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trash">
+      <UniqueIdentifier>{9dd7ccf3-17d2-4399-a129-465dfba922e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision">
+      <UniqueIdentifier>{ee6b982a-143c-4d27-a6f1-95663da04e5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{c388a6dd-5541-4a40-891d-ac0154a3b4d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation">
+      <UniqueIdentifier>{9d82933a-e295-493c-9e5d-ea571f62ab7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\Game\ShipManagement">
+      <UniqueIdentifier>{44a29819-dd82-404a-ac7b-099434572a11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\Game\ShipManagement\ShipManager">
+      <UniqueIdentifier>{d31650b7-d32b-468e-8df4-7e0018692145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\Game\ShipManagement\Ship">
+      <UniqueIdentifier>{d653a9cc-eeb4-431d-9568-fced0f0b86b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\Game\ShipManagement\WeaponManager">
+      <UniqueIdentifier>{ca9b0860-bd1f-4362-b2e8-9aff121669f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateManagement\Game\ShipManagement\WeaponManager\Shoot">
+      <UniqueIdentifier>{abe1c4d3-cc50-4052-b98a-2f6e8bd3f4d7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
